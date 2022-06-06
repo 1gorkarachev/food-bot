@@ -1,4 +1,4 @@
-<h1 align="center">Nord CLan FoodBot</h1>
+<h1 align="center">FoodBot</h1>
 
 # Разворачивание проекта
 
